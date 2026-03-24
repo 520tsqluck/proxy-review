@@ -6,9 +6,9 @@ markdown
 > 客观、透明、持续更新的国内动态代理 IP 服务商测评报告  
 > 帮助爬虫工程师、数据采集者选择稳定、高速的代理服务
 
-[![GitHub stars](https://img.shields.io/github/stars/yourname/proxy-review)](https://github.com/yourname/proxy-review/stargazers)
-[![GitHub license](https://img.shields.io/github/license/yourname/proxy-review)](https://github.com/yourname/proxy-review/blob/main/LICENSE)
-[![last commit](https://img.shields.io/github/last-commit/yourname/proxy-review)](https://github.com/yourname/proxy-review)
+[![GitHub stars](https://img.shields.io/github/stars/520tsqluck/proxy-review)](https://github.com/520tsqluck/proxy-review/stargazers)
+[![GitHub license](https://img.shields.io/github/license/520tsqluck/proxy-review)](https://github.com/520tsqluck/proxy-review/blob/main/LICENSE)
+[![last commit](https://img.shields.io/github/last-commit/520tsqluck/proxy-review)](https://github.com/520tsqluck/proxy-review)
 
 # 📊 最新测评摘要（2026年3月）
 
