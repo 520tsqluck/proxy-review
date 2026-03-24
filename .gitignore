@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Data files (ignore raw test data if too large, but we keep example)
+# data/*.csv
+!data/2026-03-raw-data.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
