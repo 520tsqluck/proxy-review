@@ -1,0 +1,8 @@
+timestamp,provider,proxy,target,status_code,response_time,error_msg
+2026-03-01 00:00:01,站大爷,119.xx.xx.xx:8080,http://httpbin.org/ip,200,0.102,
+2026-03-01 00:00:02,站大爷,119.xx.xx.xx:8080,http://www.baidu.com,200,0.095,
+2026-03-01 00:00:03,星空代理,203.xx.xx.xx:3128,http://httpbin.org/ip,200,0.178,
+2026-03-01 00:00:04,星空代理,203.xx.xx.xx:3128,http://www.baidu.com,200,0.185,
+2026-03-01 00:00:05,天启代理,222.xx.xx.xx:9000,http://httpbin.org/ip,200,0.149,
+2026-03-01 00:00:06,天启代理,222.xx.xx.xx:9000,http://www.baidu.com,200,0.152,
+...
