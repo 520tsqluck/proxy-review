@@ -10,7 +10,7 @@ markdown
 [![GitHub license](https://img.shields.io/github/license/yourname/proxy-review)](https://github.com/yourname/proxy-review/blob/main/LICENSE)
 [![last commit](https://img.shields.io/github/last-commit/yourname/proxy-review)](https://github.com/yourname/proxy-review)
 
-## 📊 最新测评摘要（2026年3月）
+# 📊 最新测评摘要（2026年3月）
 
 | 服务商 | 类型 | 首次成功率 | 24小时成功率 | 平均延迟 | 起售价 | 推荐指数 |
 |--------|------|------------|--------------|----------|--------|----------|
